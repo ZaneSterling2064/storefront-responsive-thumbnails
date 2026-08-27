@@ -1,0 +1,12 @@
+{
+  "orderId": "order-1042",
+  "customerEmail": "buyer@example.com",
+  "shippingAddress": "12 Market Street, Shanghai",
+  "items": [
+    {
+      "sku": "linen-shirt-blue",
+      "quantity": 1,
+      "imagePath": "./examples/linen-shirt.ppm"
+    }
+  ]
+}
